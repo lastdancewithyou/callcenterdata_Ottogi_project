@@ -11,7 +11,7 @@
 
 🥅 2. 발화문(Question) 기반 koBERT Multi-Classification Model을 활용한 ARS(Automated Response System) 구축
 
-<ARS 시연 유튜브 링크>
+**<ARS 시연 유튜브 링크>**
 - 하단의 영상 이미지를 클릭하세요.
   
 [![Video Label](http://img.youtube.com/vi/mFMYXBwlgVo/0.jpg)](https://youtu.be/mFMYXBwlgVo)
