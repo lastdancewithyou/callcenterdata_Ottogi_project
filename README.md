@@ -1,4 +1,4 @@
-# callcenterdata_ottogi_project
+# callcenterdata_Ottogi_project
 **세종대학교 윤호정 교수님**과 함께하는 자연어처리 기반 프로젝트(2023.08 ~ 2024.02)
 
 **주식회사 오뚜기**에서 제공하는 콜센터 데이터를 기반으로 기업의 Customer Service 분석을 진행한다.
