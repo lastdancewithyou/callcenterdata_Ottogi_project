@@ -7,14 +7,13 @@
 
 데이터는 식료품, 식품 부문의 콜센터 데이터를 사용한다.
 
-주제
----
+## 주제
 
 🥅 1. 대분류별 CS 성향 파악을 위한 BERTopic
 
 🥅 2. 발화문(Question) 기반 koBERT Multi-Classification Model을 활용한 ARS(Automated Response System) 구축
 
-**<ARS 시연 영상(Youtube) 링크>**
+## ARS 시연 영상(Youtube) 링크
 - 하단의 영상 이미지를 클릭하세요.
   
 [![Video Label](http://img.youtube.com/vi/mFMYXBwlgVo/0.jpg)](https://youtu.be/mFMYXBwlgVo)
