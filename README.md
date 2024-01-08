@@ -15,6 +15,28 @@
 
 🥅 2. 발화문(Question) 기반 koBERT Multi-Classification Model을 활용한 ARS(Automated Response System) 구축
 
+## 라이브러리
+
+python==3.7
+
+mxnet==1.7.0.post2
+
+gluonnlp==0.10.0
+
+numpy==1.6.6
+
+pandas==1.0.0
+
+transformers==4.1.1
+
+scikit-learn = 3.1.2
+
+matplotlib==3.4.2
+
+pygame==3.8.1
+
+speech_recognition==3.8.1
+
 ## ARS 시연 영상(Youtube) 링크
 - 하단의 영상 이미지를 클릭하세요.
   
